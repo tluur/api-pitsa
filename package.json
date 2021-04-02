@@ -1,0 +1,22 @@
+{
+  "name": "api-pitsa",
+  "version": "1.0.0",
+  "description": "Pizza retseptid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tluur/api-pitsa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tluur/api-pitsa/issues"
+  },
+  "homepage": "https://github.com/tluur/api-pitsa#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
